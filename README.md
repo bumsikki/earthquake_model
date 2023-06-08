@@ -1,1 +1,3 @@
 # earthquake_model
+
+In the project, you will have the chance to explore an interesting machine learning problem by participating in a DrivenData competition. In this competition, your task is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal. You will be provided with information about the buildings affected by the earthquake, including their structure and legal ownership. Your challenge is to develop a model that can accurately predict the level of damage to these buildings. For more details, please refer to the official competition website on DrivenData: "Richter’s Predictor: Modeling Earthquake Damage."
